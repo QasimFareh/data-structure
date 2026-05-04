@@ -154,4 +154,15 @@ public class DoubleLinkedList<T extends Comparable<T>> {
         newHead.prev = head;
     }
 
+    public boolean find(T data) {
+        Node<T> curr = head.next;
+        while (curr != head) {
+            if (curr.data.compareTo(data) == 0) {
+                return true;
+            }
+            curr = curr.next;
+        }
+        return false;
+    }
+
 }
