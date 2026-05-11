@@ -1,0 +1,201 @@
+Student ID, Name, Tawjihi Grade, Placement Test Grade, Chosen Major
+1105, Student1105, 86, 82, Cybersecurity
+1136, Student1136, 70, 58, Artificial Intelligence
+1144, Student1144, 100, 96, Information Technology
+1054, Student1054, 79, 85, Pharmacy
+1185, Student1185, 86, 93, Mathematics
+1065, Student1065, 96, 99, Engineering
+1106, Student1106, 85, 97, Cybersecurity
+1071, Student1071, 69, 69, Engineering
+1182, Student1182, 95, 88, Mathematics
+1036, Student1036, 88, 76, Dentistry
+1025, Student1025, 100, 90, Dentistry
+1120, Student1120, 77, 65, Cybersecurity
+1034, Student1034, 78, 70, Dentistry
+1123, Student1123, 96, 86, Artificial Intelligence
+1104, Student1104, 90, 83, Cybersecurity
+1158, Student1158, 70, 66, Information Technology
+1037, Student1037, 76, 53, Dentistry
+1200, Student1200, 61, 78, Mathematics
+1153, Student1153, 76, 57, Information Technology
+1118, Student1118, 88, 63, Cybersecurity
+1094, Student1094, 73, 50, Computer Science
+1154, Student1154, 84, 57, Information Technology
+1181, Student1181, 99, 80, Mathematics
+1117, Student1117, 79, 70, Cybersecurity
+1067, Student1067, 92, 92, Engineering
+1022, Student1022, 100, 87, Dentistry
+1066, Student1066, 93, 87, Engineering
+1188, Student1188, 98, 81, Mathematics
+1076, Student1076, 82, 54, Engineering
+1198, Student1198, 74, 65, Mathematics
+1018, Student1018, 83, 54, Medicine
+1168, Student1168, 88, 81, Business Administration
+1102, Student1102, 86, 100, Cybersecurity
+1062, Student1062, 92, 99, Engineering
+1009, Student1009, 100, 89, Medicine
+1137, Student1137, 72, 59, Artificial Intelligence
+1030, Student1030, 98, 88, Dentistry
+1077, Student1077, 67, 69, Engineering
+1175, Student1175, 65, 50, Business Administration
+1169, Student1169, 90, 80, Business Administration
+1156, Student1156, 64, 51, Information Technology
+1190, Student1190, 88, 84, Mathematics
+1039, Student1039, 72, 75, Dentistry
+1127, Student1127, 89, 88, Artificial Intelligence
+1032, Student1032, 77, 73, Dentistry
+1075, Student1075, 82, 84, Engineering
+1060, Student1060, 71, 77, Pharmacy
+1033, Student1033, 86, 73, Dentistry
+1031, Student1031, 67, 66, Dentistry
+1100, Student1100, 78, 65, Computer Science
+1048, Student1048, 98, 100, Pharmacy
+1128, Student1128, 100, 81, Artificial Intelligence
+1086, Student1086, 96, 97, Computer Science
+1142, Student1142, 97, 88, Information Technology
+1098, Student1098, 69, 60, Computer Science
+1043, Student1043, 94, 92, Pharmacy
+1195, Student1195, 82, 64, Mathematics
+1147, Student1147, 93, 100, Information Technology
+1017, Student1017, 68, 74, Medicine
+1132, Student1132, 70, 67, Artificial Intelligence
+1046, Student1046, 95, 95, Pharmacy
+1162, Student1162, 89, 98, Business Administration
+1088, Student1088, 93, 85, Computer Science
+1131, Student1131, 80, 72, Artificial Intelligence
+1157, Student1157, 67, 60, Information Technology
+1093, Student1093, 79, 77, Computer Science
+1027, Student1027, 97, 97, Dentistry
+1164, Student1164, 88, 85, Business Administration
+1049, Student1049, 98, 84, Pharmacy
+1078, Student1078, 67, 56, Engineering
+1040, Student1040, 71, 64, Dentistry
+1122, Student1122, 92, 97, Artificial Intelligence
+1052, Student1052, 74, 70, Pharmacy
+1074, Student1074, 73, 58, Engineering
+1080, Student1080, 71, 73, Engineering
+1095, Student1095, 76, 83, Computer Science
+1145, Student1145, 85, 98, Information Technology
+1092, Student1092, 77, 81, Computer Science
+1152, Student1152, 63, 71, Information Technology
+1099, Student1099, 75, 68, Computer Science
+1143, Student1143, 86, 95, Information Technology
+1110, Student1110, 96, 90, Cybersecurity
+1047, Student1047, 97, 90, Pharmacy
+1029, Student1029, 94, 98, Dentistry
+1101, Student1101, 92, 92, Cybersecurity
+1177, Student1177, 85, 52, Business Administration
+1008, Student1008, 100, 85, Medicine
+1038, Student1038, 68, 53, Dentistry
+1125, Student1125, 86, 97, Artificial Intelligence
+1193, Student1193, 69, 70, Mathematics
+1161, Student1161, 89, 88, Business Administration
+1050, Student1050, 99, 94, Pharmacy
+1135, Student1135, 82, 54, Artificial Intelligence
+1013, Student1013, 81, 65, Medicine
+1072, Student1072, 71, 63, Engineering
+1068, Student1068, 96, 90, Engineering
+1107, Student1107, 100, 96, Cybersecurity
+1010, Student1010, 99, 96, Medicine
+1133, Student1133, 72, 70, Artificial Intelligence
+1057, Student1057, 78, 80, Pharmacy
+1023, Student1023, 100, 92, Dentistry
+1151, Student1151, 70, 57, Information Technology
+1174, Student1174, 74, 60, Business Administration
+1019, Student1019, 61, 63, Medicine
+1096, Student1096, 65, 62, Computer Science
+1183, Student1183, 99, 91, Mathematics
+1115, Student1115, 78, 84, Cybersecurity
+1166, Student1166, 100, 96, Business Administration
+1167, Student1167, 100, 88, Business Administration
+1021, Student1021, 100, 97, Dentistry
+1026, Student1026, 96, 94, Dentistry
+1150, Student1150, 85, 82, Information Technology
+1055, Student1055, 90, 77, Pharmacy
+1179, Student1179, 70, 67, Business Administration
+1045, Student1045, 97, 92, Pharmacy
+1171, Student1171, 68, 66, Business Administration
+1191, Student1191, 64, 50, Mathematics
+1041, Student1041, 96, 94, Pharmacy
+1002, Student1002, 100, 94, Medicine
+1141, Student1141, 87, 97, Information Technology
+1064, Student1064, 90, 93, Engineering
+1058, Student1058, 90, 51, Pharmacy
+1085, Student1085, 86, 92, Computer Science
+1016, Student1016, 88, 52, Medicine
+1015, Student1015, 77, 62, Medicine
+1079, Student1079, 86, 57, Engineering
+1042, Student1042, 92, 100, Pharmacy
+1069, Student1069, 98, 92, Engineering
+1116, Student1116, 89, 53, Cybersecurity
+1006, Student1006, 99, 89, Medicine
+1108, Student1108, 100, 97, Cybersecurity
+1090, Student1090, 97, 92, Computer Science
+1024, Student1024, 98, 86, Dentistry
+1097, Student1097, 73, 61, Computer Science
+1134, Student1134, 70, 84, Artificial Intelligence
+1061, Student1061, 92, 90, Engineering
+1007, Student1007, 97, 98, Medicine
+1163, Student1163, 86, 93, Business Administration
+1172, Student1172, 64, 76, Business Administration
+1083, Student1083, 88, 81, Computer Science
+1165, Student1165, 93, 81, Business Administration
+1014, Student1014, 85, 56, Medicine
+1178, Student1178, 68, 74, Business Administration
+1184, Student1184, 85, 91, Mathematics
+1155, Student1155, 63, 75, Information Technology
+1089, Student1089, 86, 96, Computer Science
+1113, Student1113, 64, 61, Cybersecurity
+1063, Student1063, 97, 92, Engineering
+1126, Student1126, 95, 83, Artificial Intelligence
+1003, Student1003, 100, 91, Medicine
+1084, Student1084, 88, 82, Computer Science
+1020, Student1020, 70, 59, Medicine
+1081, Student1081, 99, 80, Computer Science
+1124, Student1124, 94, 81, Artificial Intelligence
+1012, Student1012, 85, 63, Medicine
+1173, Student1173, 83, 52, Business Administration
+1005, Student1005, 99, 100, Medicine
+1189, Student1189, 86, 88, Mathematics
+1187, Student1187, 97, 96, Mathematics
+1051, Student1051, 88, 82, Pharmacy
+1186, Student1186, 97, 85, Mathematics
+1148, Student1148, 99, 99, Information Technology
+1194, Student1194, 63, 79, Mathematics
+1073, Student1073, 73, 85, Engineering
+1056, Student1056, 71, 69, Pharmacy
+1130, Student1130, 95, 94, Artificial Intelligence
+1197, Student1197, 63, 58, Mathematics
+1109, Student1109, 96, 86, Cybersecurity
+1103, Student1103, 92, 99, Cybersecurity
+1119, Student1119, 86, 64, Cybersecurity
+1139, Student1139, 79, 62, Artificial Intelligence
+1146, Student1146, 96, 89, Information Technology
+1111, Student1111, 87, 61, Cybersecurity
+1199, Student1199, 64, 67, Mathematics
+1028, Student1028, 97, 99, Dentistry
+1140, Student1140, 76, 61, Artificial Intelligence
+1138, Student1138, 82, 55, Artificial Intelligence
+1196, Student1196, 85, 59, Mathematics
+1035, Student1035, 83, 80, Dentistry
+1149, Student1149, 90, 94, Information Technology
+1053, Student1053, 89, 59, Pharmacy
+1082, Student1082, 98, 95, Computer Science
+1087, Student1087, 87, 86, Computer Science
+1159, Student1159, 65, 65, Information Technology
+1044, Student1044, 97, 98, Pharmacy
+1180, Student1180, 84, 54, Business Administration
+1112, Student1112, 69, 73, Cybersecurity
+1160, Student1160, 79, 66, Information Technology
+1011, Student1011, 72, 57, Medicine
+1114, Student1114, 79, 66, Cybersecurity
+1091, Student1091, 90, 57, Computer Science
+1070, Student1070, 94, 84, Engineering
+1170, Student1170, 91, 80, Business Administration
+1004, Student1004, 97, 97, Medicine
+1001, Student1001, 100, 85, Medicine
+1059, Student1059, 69, 61, Pharmacy
+1192, Student1192, 64, 58, Mathematics
+1129, Student1129, 93, 90, Artificial Intelligence
+1176, Student1176, 69, 68, Business Administration
+1121, Student1121, 94, 98, Artificial Intelligence

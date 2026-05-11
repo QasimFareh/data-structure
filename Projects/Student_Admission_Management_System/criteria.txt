@@ -1,0 +1,11 @@
+Major, Capacity, Acceptance grade, Tawjihi Weight, Placement Weight
+Medicine, 15, 97, 0.8, 0.2
+Dentistry, 10, 95, 0.75, 0.25
+Pharmacy, 5, 93, 0.7, 0.3
+Engineering, 20, 90, 0.6, 0.4
+Computer Science, 5, 85, 0.7, 0.3
+Cybersecurity, 8, 83, 0.7, 0.3
+Artificial Intelligence, 8, 88, 0.7, 0.3
+Information Technology, 7,  80, 0.65, 0.35
+Business Administration, 30, 75, 0.6, 0.4
+Mathematics, 20, 78, 0.65, 0.35
